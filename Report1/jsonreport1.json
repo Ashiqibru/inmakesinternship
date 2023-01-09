@@ -1,0 +1,946 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 50500,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1200700,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 12500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 7100,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 8,
+        "name": "To validate  the user gives the invalid username and password",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate--the-user-gives-the-invalid-username-and-password",
+        "after": [
+          {
+            "result": {
+              "duration": 6600,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6000,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11700,
+              "status": "skipped"
+            },
+            "line": 10,
+            "name": "To click the Account button",
+            "match": {
+              "location": "S1BistoBitesLogin.to_click_the_Account_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8400,
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "To scroll the page",
+            "match": {
+              "location": "S1BistoBitesLogin.to_scroll_the_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8000,
+              "status": "skipped"
+            },
+            "line": 12,
+            "name": "To Enter the wrong username",
+            "match": {
+              "location": "S1BistoBitesLogin.to_Enter_the_wrong_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7600,
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "To Enter the wrong password",
+            "match": {
+              "location": "S1BistoBitesLogin.to_Enter_the_wrong_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7700,
+              "status": "skipped"
+            },
+            "line": 14,
+            "name": "To click login button",
+            "match": {
+              "location": "S1BistoBitesLogin.to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7500,
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "check the output",
+            "match": {
+              "location": "S1BistoBitesLogin.check_the_output()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@sanity"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 11000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 7500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 7300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "To validate the user sucessfully add the Dosa",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate-the-user-sucessfully-add-the-dosa",
+        "after": [
+          {
+            "result": {
+              "duration": 7200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5900,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12400,
+              "status": "skipped"
+            },
+            "line": 20,
+            "name": "To scroll down the page",
+            "match": {
+              "location": "S2AddDosa.to_scroll_down_the_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8100,
+              "status": "skipped"
+            },
+            "line": 21,
+            "name": "To click the Dosa button",
+            "match": {
+              "location": "S2AddDosa.to_click_the_Dosa_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7800,
+              "status": "skipped"
+            },
+            "line": 22,
+            "name": "To click masala Dosa",
+            "match": {
+              "location": "S2AddDosa.to_click_masala_Dosa()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7800,
+              "status": "skipped"
+            },
+            "line": 23,
+            "name": "To scroll the page and check available time",
+            "match": {
+              "location": "S2AddDosa.to_scroll_the_page_and_check_available_time()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@regression"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10600,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6300,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "To validate the user fills the registration form and ignores the conform password",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate-the-user-fills-the-registration-form-and-ignores-the-conform-password",
+        "after": [
+          {
+            "result": {
+              "duration": 7200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5600,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14300,
+              "status": "skipped"
+            },
+            "line": 28,
+            "name": "To Click the account button",
+            "match": {
+              "location": "S3RegisterBisto.to_Click_the_account_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8200,
+              "status": "skipped"
+            },
+            "line": 29,
+            "name": "To Scroll the page down",
+            "match": {
+              "location": "S3RegisterBisto.to_Scroll_the_page_down()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 877400,
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "To enter the name",
+            "match": {
+              "location": "S3RegisterBisto.to_enter_the_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11500,
+              "status": "skipped"
+            },
+            "line": 31,
+            "name": "To enter the phone number",
+            "match": {
+              "location": "S3RegisterBisto.to_enter_the_phone_number()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8000,
+              "status": "skipped"
+            },
+            "line": 32,
+            "name": "To enter the email id",
+            "match": {
+              "location": "S3RegisterBisto.to_enter_the_email_id()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 15700,
+              "status": "skipped"
+            },
+            "line": 33,
+            "name": "To enter the password",
+            "match": {
+              "location": "S3RegisterBisto.to_enter_the_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7100,
+              "status": "skipped"
+            },
+            "line": 34,
+            "name": "To Scroll the page downn",
+            "match": {
+              "location": "S3RegisterBisto.to_Scroll_the_page_downn()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7300,
+              "status": "skipped"
+            },
+            "line": 35,
+            "name": "To click the register button",
+            "match": {
+              "location": "S3RegisterBisto.to_click_the_register_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6900,
+              "status": "skipped"
+            },
+            "line": 36,
+            "name": "To check the pop up",
+            "match": {
+              "location": "S3RegisterBisto.to_check_the_pop_up()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 9700,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12100,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6000,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 39,
+        "name": "To validate the user to search for the coke can check the price",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate-the-user-to-search-for-the-coke-can-check-the-price",
+        "after": [
+          {
+            "result": {
+              "duration": 13000,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7600,
+              "status": "skipped"
+            },
+            "line": 41,
+            "name": "To click the search button",
+            "match": {
+              "location": "S4searchCoke.to_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7300,
+              "status": "skipped"
+            },
+            "line": 42,
+            "name": "To enter the item name",
+            "match": {
+              "location": "S4searchCoke.to_enter_the_item_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6700,
+              "status": "skipped"
+            },
+            "line": 43,
+            "name": "To click the enter button",
+            "match": {
+              "location": "S4searchCoke.to_click_the_enter_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7400,
+              "status": "skipped"
+            },
+            "line": 44,
+            "name": "To scrol the page",
+            "match": {
+              "location": "S4searchCoke.to_scrol_the_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6700,
+              "status": "skipped"
+            },
+            "line": 45,
+            "name": "To check the price",
+            "match": {
+              "location": "S4searchCoke.to_check_the_price()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@ashiq"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10000,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11900,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 5800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 75800,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 48,
+        "name": "To validate the user selects the Spanish Omelet",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate-the-user-selects-the-spanish-omelet",
+        "after": [
+          {
+            "result": {
+              "duration": 36600,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7100,
+              "status": "skipped"
+            },
+            "line": 50,
+            "name": "To click the search buttonn",
+            "match": {
+              "location": "S5searchOmelet.to_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7300,
+              "status": "skipped"
+            },
+            "line": 51,
+            "name": "To enter the item namee",
+            "match": {
+              "location": "S5searchOmelet.to_enter_the_item_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6800,
+              "status": "skipped"
+            },
+            "line": 52,
+            "name": "To click the enter buttonn",
+            "match": {
+              "location": "S5searchOmelet.to_click_the_enter_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6900,
+              "status": "skipped"
+            },
+            "line": 53,
+            "name": "To scrolll the page",
+            "match": {
+              "location": "S5searchOmelet.to_scrolll_the_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11300,
+              "status": "skipped"
+            },
+            "line": 54,
+            "name": "To click the item",
+            "match": {
+              "location": "S5searchOmelet.to_click_the_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6900,
+              "status": "skipped"
+            },
+            "line": 55,
+            "name": "To scrol the pagee",
+            "match": {
+              "location": "S5searchOmelet.to_scrol_the_pagee()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 10500,
+              "status": "skipped"
+            },
+            "line": 56,
+            "name": "To check the pricee",
+            "match": {
+              "location": "S5searchOmelet.to_check_the_pricee()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@sam"
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 10100,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "To launch the url of the Bisto bites webpage",
+            "match": {
+              "location": "S1BistoBitesLogin.to_launch_the_url_of_the_Bisto_bites_webpage()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13500,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6700,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.precondition2()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6200,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.Precondition()"
+            }
+          }
+        ],
+        "line": 59,
+        "name": "To validate the user read Our Story",
+        "description": "",
+        "id": "to-validate-i-want-to-order-the-food;to-validate-the-user-read-our-story",
+        "after": [
+          {
+            "result": {
+              "duration": 8400,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooks.postcondition()"
+            }
+          },
+          {
+            "result": {
+              "duration": 6000,
+              "status": "skipped"
+            },
+            "match": {
+              "location": "Hooksclass.PostCondition()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7800,
+              "status": "skipped"
+            },
+            "line": 61,
+            "name": "To click the Our story option",
+            "match": {
+              "location": "S6OurStory.to_click_the_Our_story_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13200,
+              "status": "skipped"
+            },
+            "line": 62,
+            "name": "To Scroll to down",
+            "match": {
+              "location": "S6OurStory.to_Scroll_to_down()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@afsal"
+          }
+        ]
+      }
+    ],
+    "name": "To Validate I want to order the food",
+    "description": "",
+    "id": "to-validate-i-want-to-order-the-food",
+    "keyword": "Feature",
+    "uri": "src/test/resources/BistroBites.feature",
+    "tags": [
+      {
+        "name": "@Feature1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

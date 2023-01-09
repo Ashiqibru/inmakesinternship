@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.035617">
+    <testcase classname="To Validate I want to order the food" name="To validate  the user gives the invalid username and password" time="0.022048">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To click the Account button.............................................skipped
+And To scroll the page......................................................skipped
+And To Enter the wrong username.............................................skipped
+And To Enter the wrong password.............................................skipped
+And To click login button...................................................skipped
+And check the output........................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate I want to order the food" name="To validate the user sucessfully add the Dosa" time="0.001167">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To scroll down the page.................................................skipped
+And To click the Dosa button................................................skipped
+And To click masala Dosa....................................................skipped
+And To scroll the page and check available time.............................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate I want to order the food" name="To validate the user fills the registration form and ignores the conform password" time="0.002472">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To Click the account button.............................................skipped
+And To Scroll the page down.................................................skipped
+And To enter the name.......................................................skipped
+And To enter the phone number...............................................skipped
+And To enter the email id...................................................skipped
+And To enter the password...................................................skipped
+And To Scroll the page downn................................................skipped
+And To click the register button............................................skipped
+And To check the pop up.....................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate I want to order the food" name="To validate the user to search for the coke can check the price" time="0.00082">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To click the search button..............................................skipped
+And To enter the item name..................................................skipped
+And To click the enter button...............................................skipped
+And To scrol the page.......................................................skipped
+And To check the price......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate I want to order the food" name="To validate the user selects the Spanish Omelet" time="0.001398">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To click the search buttonn.............................................skipped
+And To enter the item namee.................................................skipped
+And To click the enter buttonn..............................................skipped
+And To scrolll the page.....................................................skipped
+And To click the item.......................................................skipped
+And To scrol the pagee......................................................skipped
+And To check the pricee.....................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate I want to order the food" name="To validate the user read Our Story" time="0.007712">
+        <system-out><![CDATA[When To launch the url of the Bisto bites webpage...........................skipped
+And To click the Our story option...........................................skipped
+And To Scroll to down.......................................................skipped
+]]></system-out>
+    </testcase>
+</testsuite>
